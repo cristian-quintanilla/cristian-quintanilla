@@ -19,11 +19,34 @@
 
 ## Detalles de Contacto
 
-<a href="https://www.linkedin.com/in/cristian-quintanilla-256266201">
+<a href="mailto:cristian.quintanilla.mx@gmail.com">
 	<img
-		align="left"
+		src="https://raw.githubusercontent.com/cristian-quintanilla/cristian-quintanilla/main/images/gmail.svg"
+		alt="GMail"
+		width="32px"
+		style="margin-right: 10px"
+		/>
+</a>
+<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/cristian-quintanilla-256266201">
+	<img
 		src="https://raw.githubusercontent.com/cristian-quintanilla/cristian-quintanilla/main/images/linkedin.svg"
 		alt="LinkedIn"
-		width="22px"
+		width="32px"
+		style="margin-right: 10px"
+		/>
+</a>
+<a target="_blank" rel="noreferrer" href="https://twitter.com/_cristianqs">
+	<img
+		src="https://raw.githubusercontent.com/cristian-quintanilla/cristian-quintanilla/main/images/twitter.svg"
+		alt="Twitter"
+		width="32px"
+		style="margin-right: 10px"
+		/>
+</a>
+<a target="_blank" rel="noreferrer" href="https://cristian-quintanilla.vercel.app/">
+	<img
+		src="https://raw.githubusercontent.com/cristian-quintanilla/cristian-quintanilla/main/images/web.svg"
+		alt="Web"
+		width="32px"
 		/>
 </a>
