@@ -12,7 +12,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -22,31 +21,25 @@
 <a href="mailto:cristian.quintanilla.mx@gmail.com">
 	<img
 		src="https://raw.githubusercontent.com/cristian-quintanilla/cristian-quintanilla/main/images/gmail.svg"
-		alt="GMail"
-		width="32px"
-		style="margin-right: 10px"
-		/>
+		alt="Mail"
+		width="36px"
+		style="margin-right: 16px"
+	/>
 </a>
+
 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/cristian-quintanilla-256266201">
 	<img
 		src="https://raw.githubusercontent.com/cristian-quintanilla/cristian-quintanilla/main/images/linkedin.svg"
 		alt="LinkedIn"
-		width="32px"
-		style="margin-right: 10px"
-		/>
+		width="36px"
+		style="margin-right: 16px"
+	/>
 </a>
-<a target="_blank" rel="noreferrer" href="https://twitter.com/_cristianqs">
-	<img
-		src="https://raw.githubusercontent.com/cristian-quintanilla/cristian-quintanilla/main/images/twitter.svg"
-		alt="Twitter"
-		width="32px"
-		style="margin-right: 10px"
-		/>
-</a>
+
 <a target="_blank" rel="noreferrer" href="https://cristian-quintanilla.vercel.app/">
 	<img
 		src="https://raw.githubusercontent.com/cristian-quintanilla/cristian-quintanilla/main/images/web.svg"
-		alt="Web"
-		width="32px"
-		/>
+		alt="Web Page"
+		width="36px"
+	/>
 </a>
