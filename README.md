@@ -40,7 +40,7 @@ Mi objetivo profesional es obtener experiencia en el área de desarrollo web, pa
 	/>
 </a>
 
-<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/cristian-quintanilla-256266201">
+<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/cristian-giovanni-quintanilla-soto/">
 	<img
 		src="https://raw.githubusercontent.com/cristian-quintanilla/cristian-quintanilla/main/images/linkedin.svg"
 		alt="LinkedIn"
