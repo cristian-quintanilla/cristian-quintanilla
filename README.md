@@ -1,14 +1,9 @@
 ## Hola, Soy Cristian Quintanilla. Frontend Developer.
 
-<p align="start" >Mi nombre es Cristian Quintanilla y soy FullStack Developer Jr. Actualmente resido en México.</p>
-
-<!-- <p >
-<a href="https://twitter.com/robertfrontend"><img src="https://img.shields.io/twitter/follow/robertfrontend?style=social" /></a>
-<a href="https://github.com/Robertfrontend"><img src="https://img.shields.io/github/followers/robertfrontend?label=follow&style=social" /></a>
-</p> -->
+<p align="start">Mi nombre es Cristian Quintanilla y soy FullStack Developer Jr. enfocado más en la parte de Frontend. Actualmente resido en México.</p>
 
 ## Objetivo Profesional.
-Mi objetivo profesional es obtener experiencia en el área de desarrollo web, para poder generar experiencias de usuario únicas y modernas mediante el uso de las tecnologías más modernas. Además de convertirme en un programador profesional que diseñe y desarrolle sitios web que sean eficientes y funcionales.
+Mi objetivo profesional es obtener experiencia en el área de desarrollo web, para poder generar experiencias de usuario únicas y modernas mediante el uso de las tecnologías actuales. Además de convertirme en un programador profesional que diseñe y desarrolle sitios web que sean tanto eficientes como funcionales.
 
 ## Cuento con conocimientos básicos-intermedios en las siguientes tecnologías:
 ### Frontend:
